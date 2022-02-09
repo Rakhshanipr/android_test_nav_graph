@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="cView">
+        <attr name="cardWidth" format="dimension"/>
+        <attr name="cardHeight" format="dimension"/>
+    </declare-styleable>
+
+</resources>
